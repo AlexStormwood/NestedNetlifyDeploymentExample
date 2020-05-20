@@ -13,7 +13,7 @@ This means my "Publish directory" must have a value of "nestedFolder".
 
 It should look something like this to work:
 
-![NestedNetlifySettings](.\NestedNetlifySettings.png)
+![NestedNetlifySettings](NestedNetlifySettings.png)
 
 
 
